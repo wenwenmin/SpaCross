@@ -1,0 +1,23 @@
+data:
+  dataset: STARmap
+  k_cutoff: 12
+  top_genes: 1020
+model:
+  dic_hidden: 64
+  feat_hidden1: 64
+  feat_hidden2: 32
+  gcn_hidden: 64
+  latent_dim: 16
+  mask_rate: 0.3
+  momentum_rate: 0.0
+  p_drop: 0.2
+  project_dim: 32
+  t: 2
+seed: 3407
+train:
+  epochs: 300
+  t_step: 50
+  topk_neighs: 30
+  w_mean: 0.8
+  w_recon: 0.6
+  w_tri: 0.1
