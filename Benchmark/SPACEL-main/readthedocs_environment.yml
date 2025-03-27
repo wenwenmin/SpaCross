@@ -1,0 +1,14 @@
+name: SPACEL
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cudatoolkit=10.2.*
+  - python=3.8
+  - pip
+  - rpy2
+  - r-base
+  - r-fitdistrplus
+  - pip: 
+    - -r requirements.txt
+    - -r docs/requirements.txt
