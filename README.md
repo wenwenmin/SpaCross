@@ -21,3 +21,7 @@ In downstream tasks (Fig. C),  SpaCross enables complex spatial domain identific
 ## Data
 All the datasets used in this paper can be downloaded from url：[https://zenodo.org/records/15090086](https://zenodo.org/records/15090086).
 
+## Running demo
+You can find implementation examples of SpaCross across multiple datasets in the respective Python scripts under the [Tutorial](Turorial) directory.
+
+
