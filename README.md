@@ -23,8 +23,8 @@ All the datasets used in this paper can be downloaded from url：[https://zenodo
 
 ## Demos
 We provide two types of usage examples for SpaCross:
-- **Reproduction scripts** used to replicate the results in our manuscript are available in the Reproduction_Notebook directory.
-- **Step-by-step tutorials** for applying SpaCross to new datasets are provided in the Tutorial_Notebook directory, including clustering and cross-stage integration examples.
+- **Reproduction scripts** used to replicate the results in our manuscript are available in the **Reproduction_Notebook** directory.
+- **Step-by-step tutorials** for applying SpaCross to new datasets are provided in the **Tutorial_Notebook** directory, including clustering and cross-stage integration examples.
 
 
 ## Contact details
