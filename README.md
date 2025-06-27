@@ -16,7 +16,7 @@ In downstream tasks (Fig. C),  SpaCross enables complex spatial domain identific
 
 ## Installations
 - NVIDIA GPU (a single Nvidia GeForce RTX 3090)
-- `pip install -r requiremnt.txt`
+- `pip install -r requirement.txt`
 
 ## Data
 All the datasets used in this paper can be downloaded from url：[https://zenodo.org/records/15090086](https://zenodo.org/records/15090086).
