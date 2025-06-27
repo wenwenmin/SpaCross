@@ -22,7 +22,10 @@ In downstream tasks (Fig. C),  SpaCross enables complex spatial domain identific
 All the datasets used in this paper can be downloaded from url：[https://zenodo.org/records/15090086](https://zenodo.org/records/15090086).
 
 ## Demos
-You can find implementation examples of SpaCross across multiple datasets in the respective Python scripts under the [Tutorial](Tutorial) directory.
+We provide two types of usage examples for SpaCross:
+- **Reproduction scripts** used to replicate the results in our manuscript are available in the [`reproduction`](reproduction) directory.
+- **Step-by-step tutorials** for applying SpaCross to new datasets are provided in the [`tutorial`](tutorial) directory, including clustering and cross-stage integration examples.
+
 
 ## Contact details
 If you have any questions, please contact fangdonghai@aliyun.com.
