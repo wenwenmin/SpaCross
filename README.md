@@ -29,3 +29,7 @@ We provide two types of usage examples for SpaCross:
 
 ## Contact details
 If you have any questions, please contact fangdonghai@aliyun.com and minwenwen@ynu.edu.cn.
+
+## Citing
+
+Donghai Fang and Wenwen Min*. SpaCross deciphers spatial structures and corrects batch effects in multi-slice spatially resolved transcriptomics. Communications Biology (2025), https://doi.org/10.1038/s42003-025-08810-5
