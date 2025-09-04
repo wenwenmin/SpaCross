@@ -12,7 +12,7 @@ To address the insufficient integration of local and global information in SRT d
 
 In downstream tasks (Fig. C),  SpaCross enables complex spatial domain identification within tissue slices while preserving spatial continuity and clustering accuracy. It supports the integration of consecutive slices, cross-developmental stage comparisons, and cross-platform datasets. These capabilities provide a unified framework for spatial omics studies in development, disease, and cross-species research. 
 
-![Overview.jpg](Overview.jpg)
+![overview.jpg](overview.jpg)
 
 ## Installations
 - NVIDIA GPU (a single Nvidia GeForce RTX 3090)
