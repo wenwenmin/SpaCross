@@ -28,4 +28,4 @@ We provide two types of usage examples for SpaCross:
 
 
 ## Contact details
-If you have any questions, please contact fangdonghai@aliyun.com.
+If you have any questions, please contact fangdonghai@aliyun.com and minwenwen@ynu.edu.cn.
